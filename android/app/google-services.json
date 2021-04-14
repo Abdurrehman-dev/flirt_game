@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "770421260756",
+    "project_id": "flirt-fd353",
+    "storage_bucket": "flirt-fd353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770421260756:android:4f8f17b5ff1db12e875641",
+        "android_client_info": {
+          "package_name": "com.nab.perfect.flirt.save.flirt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770421260756-8pbt9f9binilr5n43eqj922e3t5hke31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkGQ4UvQVqkiYKGlBvxnTC6gdKY8Xn79k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770421260756-8pbt9f9binilr5n43eqj922e3t5hke31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770421260756-08iqacsl6cuhvbo97pf8m79qaic09j0h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nab.perfect.flirt.save.flirt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
